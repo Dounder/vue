@@ -1,0 +1,3 @@
+[submodule "todo-rest"]
+	path = todo-rest
+	url = git@github.com:Dounder/vtodo-animations.git
