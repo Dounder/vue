@@ -1,5 +1,6 @@
-[submodule "todo-rest"]
-	url = git@github.com:Dounder/vtodo-animations.git
 [submodule "quasar-docker"]
 	path = quasar-docker
 	url = git@github.com:Dounder/quasar-docker.git
+[submodule "todo-rest"]
+	path = todo-rest
+	url = git@github.com:Dounder/vtodo-animations.git
