@@ -4,3 +4,6 @@
 [submodule "todo-rest"]
 	path = todo-rest
 	url = git@github.com:Dounder/vtodo-animations.git
+[submodule "drello"]
+	path = drello
+	url = git@github.com:Dounder/drello-frontend.git
