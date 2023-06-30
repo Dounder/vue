@@ -10,3 +10,6 @@
 [submodule "weather-app"]
 	path = weather-app
 	url = git@github.com:Dounder/vue-weather-app.git
+[submodule "palette"]
+	path = palette
+	url = git@github.com:Dounder/palette.git
