@@ -13,3 +13,6 @@
 [submodule "palette"]
 	path = palette
 	url = git@github.com:Dounder/palette.git
+[submodule "vuetify-boilerplate"]
+	path = vuetify-boilerplate
+	url = git@github.com:Dounder/vuetify-boilerplate.git
