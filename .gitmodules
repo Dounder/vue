@@ -16,3 +16,6 @@
 [submodule "vuetify-boilerplate"]
 	path = vuetify-boilerplate
 	url = git@github.com:Dounder/vuetify-boilerplate.git
+[submodule "vuewind"]
+	path = vuewind
+	url = https://github.com/Dounder/vuewind.git
